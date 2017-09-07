@@ -1,0 +1,52 @@
+<doctype html>
+ <head> <title>Html form</title></head>
+ <link rel="stylesheet" type="text/css" href="style.css">
+<body>
+	<h2>html forms</h2>
+	<form>
+		<section>
+		First name:<br>
+			<input type="text " name="firstname" placeholder="name" id="firstname">
+		</section>
+
+		<section>
+		Email adress: <br>
+			<input type="text" name="email" placeholder="email" id="email">
+		</section>
+
+        <section>
+		<h3>Gender:</h3><br>
+			male<section>
+			<input type="radio" name="Gender" value="male">
+			</section>
+
+			female<section>
+			<input type="radio" name="Gender" value="female">
+		 </section>
+		</section>
+		<h3>Checkboxes</h3>
+		<p class="movie_list">Whats your favorite movie?</p>
+		<label>
+		
+		<input type="checkbox" name="best_movie" value="Pirates of the carribean" checked="checkbox">
+		Dead men tell no tales
+		</label>
+
+		<label>
+			<input type="checkbox" name="best_movie" value="baywatch">
+			Baywath 2017
+		</label>
+
+		<h3>Dropdown selection</h3>
+		<select name="name">
+			<option value="Kevin">Kevin</option>
+			<option value="Kelvin">Kelvin</option>
+			<option value="Gawo" selected >Gawo</option>
+			<option value="Goerge">Goerge</option>
+			<option value="Esther">Esther</option>
+		</select>
+		<input type="submit" name="submit" value="save information">
+		<button type="submit"> Save informaton </button>
+
+	</form>
+</body>
