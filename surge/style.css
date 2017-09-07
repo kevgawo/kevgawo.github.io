@@ -1,0 +1,115 @@
+body {
+ 		background: #E63462
+ 	}
+h3 {
+	color: black ;
+	font : Arial ;
+	text-align: center;
+	border: 5px;
+	position: relative;top:270px;
+	
+}
+
+.my_profile h3{
+	position: relative;top: 320px;
+	text-align: center;
+	color: black;
+
+}
+p {
+	text-align: center; 
+	position: relative;top: 300px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  text-align : center ;
+  position: relative;top: 0px;
+}
+.navbar li{
+	display: inline;
+}
+
+li a{
+  display:inline-block;
+  color: white;
+  text-align: left;
+  padding: 10px 10px;
+  text-decoration: none;
+
+}
+li a:hover {
+  background-color: #000;
+}
+.img-circle {
+	border-radius: 50%; 
+	width: 250px;
+	height: 250px;
+	position: absolute;right: 520px;top: 100px;
+	margin:0 auto;
+
+}
+.circle {
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	position: absolute;right: 100px;top: 50px;
+	z-index: 1;
+
+}
+.circle1 {
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	background-color: white;
+	position: absolute;right: 300px;top: 200px;
+	z-index: 2;
+}
+.circle2 {
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	position: absolute;left: 100px;top: 50px;
+	z-index: 3;
+}
+.circle3 {
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	background-color: white;
+	position: absolute;left: 300px;top: 200px;
+	z-index: 4;
+
+}
+.social ul {
+	list-style: none;
+	position: fixed;bottom: 0px;
+}
+.icon {
+	margin-right: 20px;
+}
+
+
+.icon:hover{
+	background-color: white
+}
+.skill ul {
+	list-style: none;
+	text-align: center;
+}
+.headskill h2{
+	color: black ;
+	font : Arial ;
+	text-align: center;
+	border: 5px;
+	position: relative;top:50px;
+
+}
+.name h3{
+text-align: center;
+position: relative;top: 200px;
+}
