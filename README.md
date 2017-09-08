@@ -37,7 +37,6 @@ Antractica | 4.490 million
 >To find out more on this startups go to [Distrup Africa](https://www.disrupt-africa.com/2017/01/12-african-startups-to-watch-in-2017/)
 
 > Hope you enjoyed the article Africa is Rising. 
-emoji!
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat: 
 
