@@ -17,11 +17,17 @@ Europe | 738.849 million
 North America | 579.024 million
 South America | 422.535 million
 Australia | 39.901 million
-Antractica | 4.490 million
+Antractica | 4.490 million  
+
+<p align="center">
+<img src="africa.jpg" alt="African map" width="300px" height="300px" align="center">
+</p>
+
 
 ### The African StartUp Scene
-> The number of startups in africa is increasing partly due to industrius entrepreneurs and increassed acces to funding.
->Some of the most promising startups currently on the continent as mention by Distrup Africa are:
+
+> The number of startups in africa is increasing partly due to industrious entrepreneurs and increasced access to funding.
+> Some of the most promising startups currently on the continent as mention by Distrup Africa are:
 
 * INSTABUG                          
 * CUSTOS MEDIA                       
@@ -35,11 +41,11 @@ Antractica | 4.490 million
 * DR CADX
 * FUZU  
 
-![African Map](https://githun.com/kevgawo.github.io/master/africa.jpg)
+
 >To find out more on this startups go to [Distrupt Africa](https://www.disrupt-africa.com/2017/01/12-african-startups-to-watch-in-2017/)
 
-> Hope you enjoyed the article Africa is Rising. 
-<img class="emoji" alt=":+1:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png">
+> Hope you enjoyed the article Africa is Rising.<img class="emoji" alt=":+1:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png">
+
 
 
 
