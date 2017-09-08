@@ -17,3 +17,7 @@ North America | 579.024 million
 South America | 422.535 million
 Australia | 39.901 million
 Antractica | 4.490 million
+
+### The African StartUp Scene
+> The number of startups in africa is increasig partly due to industrius entrepreneurs and increassed acces to funding.
+>Some of the most promising startups currently on the continent are:
