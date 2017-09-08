@@ -1,5 +1,5 @@
-
 # Africa Rise
+
 
 > We live in a very exciting time as entreprenurs in Africa. Investments in the coninent is increases each year'
 > Partech’s report says there was an increase in startup investment on the continent. In 2016, the report says, African startups raised $366.8 million with the figure expected to rise this year.
@@ -39,7 +39,7 @@ Antractica | 4.490 million
 
 > Hope you enjoyed the article Africa is Rising. 
 <img class="emoji" alt=":+1:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png">
-<img class="emoji" alt=":simple_smile:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png">
+
 
 
 
