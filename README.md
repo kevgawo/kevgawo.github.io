@@ -20,4 +20,19 @@ Antractica | 4.490 million
 
 ### The African StartUp Scene
 > The number of startups in africa is increasig partly due to industrius entrepreneurs and increassed acces to funding.
->Some of the most promising startups currently on the continent are:
+>Some of the most promising startups currently on the continent as mention by Distrup Africa are:
+
+*INSTABUG                        *TRESS
+*ROAMSMART                       *SPACEPOINTE
+*TUTORAMA                        *PRINTIVO
+*FUZU                            *DR CADX
+*CAPSULE                         *CAPE (ASIMMETRIC)
+*JAMII                           *CUSTOS MEDIA
+
+>To find out more on this startups go to [Distrup Africa](https://www.disrupt-africa.com/2017/01/12-african-startups-to-watch-in-2017/)
+
+
+
+
+
+
