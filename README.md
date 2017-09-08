@@ -1,3 +1,4 @@
+<img class="emoji" alt=":+1:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png">
 # Africa Rise
 
 > We live in a very exciting time as entreprenurs in Africa. Investments in the coninent is increases each year'
