@@ -1,4 +1,4 @@
-<img class="emoji" alt=":+1:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png">
+
 # Africa Rise
 
 > We live in a very exciting time as entreprenurs in Africa. Investments in the coninent is increases each year'
@@ -38,8 +38,9 @@ Antractica | 4.490 million
 >To find out more on this startups go to [Distrupt Africa](https://www.disrupt-africa.com/2017/01/12-african-startups-to-watch-in-2017/)
 
 > Hope you enjoyed the article Africa is Rising. 
-:+1: :sparkles: :camel: :tada:
-:rocket: :metal: :octocat: 
+<img class="emoji" alt=":+1:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png">
+<img class="emoji" alt=":simple_smile:" height="20" width="20" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f44d.png">
+
 
 
 
